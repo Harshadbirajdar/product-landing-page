@@ -93,7 +93,7 @@ button.action-btn {
 .discount {
   position: absolute;
   width: 150px;
-  top: 350px;
+  top: 330px;
 }
 .discount-content {
   position: absolute;
@@ -124,6 +124,9 @@ button.action-btn {
 }
 .right-section .action-btn {
   margin: 30px auto;
+}
+.discount path {
+  fill: var(--primary);
 }
 
 /* Media Query */
